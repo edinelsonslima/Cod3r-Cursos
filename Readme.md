@@ -9,3 +9,7 @@
 
 ### Next.js-e-React Aulao-01
   - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/Next.js-e-React%20Aulao-01" target="_blank"> Aulão #01 </a>
+
+### Fundamentos do ReactJs
+  - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/fundamentos-react" target="_blank"> React </a>
+
