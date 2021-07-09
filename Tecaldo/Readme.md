@@ -14,3 +14,5 @@
 
 ### Teclado em javascript
 Desenvolvi esse teclado musical interativa para melhorar meus conceitos sobre os **eventos** e o **DOM** no javascript
+
+[Acesse a video aula aqui](https://www.youtube.com/watch?v=PIdNP6qoMoA&t=1627s)
