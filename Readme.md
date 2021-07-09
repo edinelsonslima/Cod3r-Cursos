@@ -11,7 +11,12 @@
   - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/Next.js-e-React%20Aulao-01" target="_blank"> Aulão #01 </a>
 
 ### Fundamentos do ReactJs
-  - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/fundamentos-react" target="_blank"> React </a>
+  - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/fundamentos-react" target="_blank"> Fundamentos do React </a>
 
 ### JavaScript Funcional
   - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/Javascript-funcional" target="_blank"> JavaScript Funcional </a>
+
+### Teclado com JavaScript
+  - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/Tecaldo" target="_blank"> Teclado Musical </a>
+
+
