@@ -13,3 +13,5 @@
 ### Fundamentos do ReactJs
   - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/fundamentos-react" target="_blank"> React </a>
 
+### JavaScript Funcional
+  - <a href="https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/Javascript-funcional" target="_blank"> JavaScript Funcional </a>
