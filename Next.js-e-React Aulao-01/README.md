@@ -4,7 +4,7 @@
 
 ## Primeiro aulão de nextJs e ReactJs
 Neste aulão foi dado um passo inicial nos conceitos base do NextJs, fazendo um resumão dos beneficios da aplicação.
-
+* [Acesse a aula aqui](https://www.youtube.com/watch?v=PHKaJlAeNLk)
 
 ## Dependências 
  - next: 11.0.1
