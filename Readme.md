@@ -7,6 +7,8 @@
 
 <h2 align="center"> Algumas anotções dos cursos na cod3r </h2>
 
+### * [Next.Js & React - Curso](https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/Next%26React-Curso/)
+
 ### * [Next.js-e-React Aulao-01](https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/Next.js-e-React%20Aulao-01)
 
 ### * [Fundamentos do ReactJs](https://github.com/edinelsonslima/Cod3r-Cursos/tree/master/fundamentos-react)
