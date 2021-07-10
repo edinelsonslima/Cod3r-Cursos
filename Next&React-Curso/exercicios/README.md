@@ -1,3 +1,33 @@
+# Projeto Criado para o modulo 01
+ - Nesse modulo são mostrados os fundamentos do ReactJs e algumas particularidas do NextJs
+
+#
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**Instruções para iniciar a aplicação**
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
