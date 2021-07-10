@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.azul{
+  background-color: dodgerblue;
+}
+
+.vermelho {
+  background-color: crimson;
+}
