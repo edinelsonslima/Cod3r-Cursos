@@ -1,12 +1,12 @@
 export default function Repeticao1() {
   const listaAprovados = [
-    "João",
-    "Maria",
     "Ana",
     "Bia",
     "Carlos",
     "Daniel",
+    "João",
     "Laura",
+    "Maria",
   ];
 
   function renderizarLista() {
